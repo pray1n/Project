@@ -6,10 +6,21 @@
         font-size: 50px;
         text-align: center;
         padding: 20px;
-        word-spacing: 40;
+       
+}
+section {
+        width: 500px;
+        margin: 0x;
+
+}
+section img {
+        width: 300px;
+        height: 300px;
 }
 
+aside {
 
+}
 
 
 
